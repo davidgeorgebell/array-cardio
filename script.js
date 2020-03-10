@@ -19,3 +19,4 @@ console.table(doggos);
 // 5. Breeds alphabetically
 // 6. Show trained
 // 7. Names ending with 'y'
+// 8. Create a High Order Function that takes in breeds and adds each breed to it's own variable
