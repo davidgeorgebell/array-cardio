@@ -1,5 +1,5 @@
 const doggos = [
-  { name: 'Scruffy', breed: 'Labradore', age: 3, trained: true },
+  { name: 'Scruffy', breed: 'Labrador', age: 3, trained: true },
   { name: 'Charlie', breed: 'Poodle', age: 8, trained: true },
   { name: 'Shandy', breed: 'Bulldog', age: 2, trained: false },
   { name: 'Mossy', breed: 'Border Collie', age: 3, trained: true },
@@ -7,17 +7,24 @@ const doggos = [
   { name: 'Humphrey', breed: 'Jack Russel', age: 5, trained: true },
   { name: 'Spike', breed: 'Boxer', age: 10, trained: true },
   { name: 'Hunter', breed: 'German Pointer', age: 3, trained: true },
-  { name: 'Marlo', breed: 'Labradore', age: 4, trained: false },
+  { name: 'Marlo', breed: 'Labrador', age: 4, trained: false },
   { name: 'Dave', breed: 'Bulldog', age: 7, trained: true }
 ];
-console.table(doggos);
 
-// 1. Show array of most popular
-// 2. Show youngest to Oldest
-// 3. Names alphabetically
-// 4. Most popular breed
-// 5. Breeds alphabetically
-// 6. Show trained
-// 7. Names ending with 'y'
-// 8. Create a High Order Function that takes in breeds and adds each breed to it's own variable
-// 9. Total age of all doggos
+// Show array of most popular breed
+
+//  Show youngest to Oldest
+
+//  Names alphabetically
+
+// Breeds alphabetically
+
+// Show trained
+
+// Names ending with 'y'
+
+// Create a High Order Function that takes in breeds and adds each breed to it's own variable
+
+// Total age of all doggos
+
+// Most popular breed
